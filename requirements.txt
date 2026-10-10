@@ -1,0 +1,13 @@
+numpy==2.0.2
+pyomo==6.9.2
+omlt==1.2.2
+tensorflow==2.19.0
+scikit-learn==1.6.1
+matplotlib==3.9.4
+seaborn==0.13.2
+gurobipy==12.0.3
+torch==2.7.1
+fairlearn==0.12.0
+tqdm==4.67.1
+torchvision==0.22.1
+adversarial-robustness-toolbox==1.20.1

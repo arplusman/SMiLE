@@ -1,0 +1,8 @@
+env/
+.DS_Store
+.venv/
+__pycache__/
+competitors/
+logs/
+*results*/
+degeneracy_*/
